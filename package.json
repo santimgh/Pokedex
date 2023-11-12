@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://santimgh.github.io",
+  "homepage": "https://santimgh.github.io/Pokedex",
   "eslintConfig": {
     "extends": [
       "react-app",
